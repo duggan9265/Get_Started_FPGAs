@@ -1,7 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
-ntity Switches_To_LEDs is
 
+Entity Switches_To_LEDs is
 port (
   i_Switch_1 : in std_logic;
   i_Switch_2 : in std_logic;
